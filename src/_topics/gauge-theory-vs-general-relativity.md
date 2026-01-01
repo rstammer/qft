@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: "Gauge Theory vs General Relativity: The Deep Unity"
 tags:
   - Gauge Theory
@@ -66,7 +66,7 @@ In gauge theories, the connection lives on a bundle **over** a fixed spacetime. 
 
 In GR, the metric **is** the dynamical variable. Spacetime itself responds to matter. This makes gravity fundamentally different—and much harder to quantize.
 
-See also: [Why can't gravity be unified with Quantum Mechanics?](/questions/gravity-and-quantum-mechanics/)
+See also: [Why can't gravity be unified with Quantum Mechanics?](/topics/gravity-and-quantum-mechanics/)
 
 ---
 

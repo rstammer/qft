@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: The Schrodinger Equation
 tags:
   - Quantum Mechanics

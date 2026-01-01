@@ -26,11 +26,11 @@ Bridgetown.configure do |config|
   # Available options are `erb` (default), `serbea`, or `liquid`
   template_engine "erb"
 
-  # Custom collection for Q&A pages
+  # Custom collection for topic pages
   collections do
-    questions do
+    topics do
       output true
-      permalink "/questions/:slug/"
+      permalink "/topics/:slug/"
     end
   end
 

@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: What is a Lagrangian?
 tags:
   - Foundations

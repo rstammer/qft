@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: How do particle types relate to mathematical objects?
 tags:
   - Mathematics

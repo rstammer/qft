@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: What are Fiber Bundles and why do they matter in physics?
 tags:
   - Mathematics

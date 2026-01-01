@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: How does QFT differ from Quantum Mechanics?
 tags:
   - QFT

@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: Particle Types Overview
 tags:
   - Standard Model

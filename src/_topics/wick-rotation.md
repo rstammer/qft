@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: What is Wick Rotation and why does it work?
 tags:
   - QFT

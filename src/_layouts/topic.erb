@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<article class="question">
+<article class="topic">
   <header>
-    <span class="question-label">Question</span>
+    <span class="topic-label">Topic</span>
     <h1><%= resource.data.title %></h1>
     <% if resource.data.tags %>
     <div class="tags">
@@ -15,7 +15,7 @@ layout: default
     <% end %>
   </header>
 
-  <div class="question-content">
+  <div class="topic-content">
     <%= yield %>
   </div>
 

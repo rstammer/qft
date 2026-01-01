@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: How does the Heisenberg uncertainty relation relate to Lie algebras?
 tags:
   - Quantum Mechanics

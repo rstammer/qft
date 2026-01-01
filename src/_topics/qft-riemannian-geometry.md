@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: Is QFT based on Riemannian Geometry?
 tags:
   - QFT
@@ -12,7 +12,7 @@ tags:
 
 Quantum Field Theory (QFT) is not primarily based on Riemannian geometry. Standard QFT uses **flat Minkowski spacetime**. When we do QFT on a curved background (like near a black hole), we use **pseudo-Riemannian (Lorentzian) geometry**—but the spacetime is treated classically, not quantized. The geometric heart of QFT lies in **fiber bundle theory**, where gauge fields are connections and matter fields are sections.
 
-**Important clarification:** "QFT on curved spacetime" means quantum fields on a classical gravitational background. This is **not** quantum gravity—the metric is fixed, not dynamical. Full quantum gravity (making spacetime itself quantum) remains an open problem. See [Why can't gravity be unified with Quantum Mechanics?](/questions/gravity-and-quantum-mechanics/)
+**Important clarification:** "QFT on curved spacetime" means quantum fields on a classical gravitational background. This is **not** quantum gravity—the metric is fixed, not dynamical. Full quantum gravity (making spacetime itself quantum) remains an open problem. See [Why can't gravity be unified with Quantum Mechanics?](/topics/gravity-and-quantum-mechanics/)
 
 ---
 
@@ -288,7 +288,7 @@ The covariant derivative:
 
 Both gauge theory and general relativity use the same geometric language: manifolds, connections, and curvature. In both, **curvature is the force**.
 
-For a detailed comparison, see: **[Gauge Theory vs General Relativity: The Deep Unity](/questions/gauge-theory-vs-general-relativity/)**
+For a detailed comparison, see: **[Gauge Theory vs General Relativity: The Deep Unity](/topics/gauge-theory-vs-general-relativity/)**
 
 ---
 

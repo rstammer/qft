@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: topic
 title: Why can't gravity be unified with Quantum Mechanics?
 tags:
   - Gravity

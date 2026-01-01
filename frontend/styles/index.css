@@ -228,8 +228,8 @@ hr {
   margin: 3rem 0;
 }
 
-/* Question styling */
-.question-label {
+/* Topic styling */
+.topic-label {
   display: inline-block;
   background: var(--action-color);
   color: white;
@@ -241,7 +241,7 @@ hr {
   margin-bottom: 0.5rem;
 }
 
-.question header h1 {
+.topic header h1 {
   text-align: left;
   margin-top: 0.5rem;
 }
@@ -314,15 +314,15 @@ tr:nth-child(even) {
   background: #fafafa;
 }
 
-/* Question content */
-.question-content h2 {
+/* Topic content */
+.topic-content h2 {
   color: var(--heading-color);
   border-bottom: 2px solid #eee;
   padding-bottom: 0.3rem;
   margin-top: 2rem;
 }
 
-.question-content h3 {
+.topic-content h3 {
   color: #555;
   margin-top: 1.5rem;
 }
