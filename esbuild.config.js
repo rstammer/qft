@@ -33,6 +33,8 @@ import build from "./config/esbuild.defaults.js"
  * @type {BuildOptions}
  */
 const esbuildOptions = {
+  // Support base_path for GitHub Pages deployment
+  publicPath: process.env.BASE_PATH ? `${process.env.BASE_PATH}/_bridgetown/static` : "/_bridgetown/static",
   plugins: [
     // add new plugins here...
   ],
