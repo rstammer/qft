@@ -72,3 +72,16 @@ Use KaTeX for math rendering:
 - Inline math: `<span class="math-inline">\alpha + \beta</span>`
 
 See [PROJECT.md](PROJECT.md) for more Bridgetown-specific documentation.
+
+## Deployment (GitHub Pages)
+
+The site automatically deploys to GitHub Pages when you push to `main`.
+
+### Setup (one-time)
+
+1. Create a GitHub repository and push this code
+2. Go to **Settings → Pages**
+3. Under "Build and deployment", select **GitHub Actions**
+4. Push to `main` — the site will build and deploy automatically
+
+Your site will be available at `https://USERNAME.github.io/REPO_NAME`

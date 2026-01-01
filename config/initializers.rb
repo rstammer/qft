@@ -16,7 +16,8 @@
 
 Bridgetown.configure do |config|
   # The base hostname & protocol for your site, e.g. https://example.com
-  url ""
+  # For GitHub Pages: https://USERNAME.github.io/REPO_NAME
+  url ENV.fetch("URL", "")
 
   # Available options are `erb` (default), `serbea`, or `liquid`
   template_engine "erb"
