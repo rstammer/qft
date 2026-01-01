@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<article class="question">
+  <header>
+    <span class="question-label">Question</span>
+    <h1><%= resource.data.title %></h1>
+    <% if resource.data.tags %>
+    <div class="tags">
+      <% resource.data.tags.each do |tag| %>
+        <span class="tag"><%= tag %></span>
+      <% end %>
+    </div>
+    <% end %>
+  </header>
+
+  <div class="question-content">
+    <%= yield %>
+  </div>
+
+  <footer>
+    <% if resource.data.references %>
+    <h3>References</h3>
+    <ul>
+      <% resource.data.references.each do |ref| %>
+        <li><%= ref %></li>
+      <% end %>
+    </ul>
+    <% end %>
+  </footer>
+</article>
