@@ -2,32 +2,40 @@
 layout: default
 ---
 
-# Modern Theoretical Physics
+<div class="home-intro">
+  <p>A wiki for understanding modern physics with emphasis on precise mathematical foundations. Making Quantum Field Theory, the Standard Model, and General Relativity accessible to mathematicians and students.</p>
+</div>
 
-A wiki for understanding modern physics with emphasis on precise mathematical foundations.
+## Questions
 
-## Questions & Answers
-
-Answered questions about QFT, the Standard Model, General Relativity, and the underlying mathematics.
-
+<div class="question-list">
 <% collections.questions.resources.each do |question| %>
-- [<%= question.data.title %>](<%= question.relative_url %>) <% if question.data.tags %><span class="tags-inline"><% question.data.tags.each do |tag| %><span class="tag-small"><%= tag %></span><% end %></span><% end %>
+<a href="<%= question.relative_url %>" class="question-card">
+  <span class="question-card-title"><%= question.data.title %></span>
+  <% if question.data.tags %>
+  <span class="question-card-tags"><% question.data.tags.each do |tag| %><span class="tag-small"><%= tag %></span><% end %></span>
+  <% end %>
+</a>
 <% end %>
+</div>
 
-## Articles
+## Topics
 
-In-depth explorations of specific topics.
-
-<% collections.posts.resources.sort_by { |p| p.date }.reverse.each do |post| %>
-- [<%= post.data.title %>](<%= post.relative_url %>) <span class="post-date"><%= post.date.strftime("%Y-%m-%d") %></span>
-<% end %>
-
----
-
-## Topics to Explore
-
-- Quantum Field Theory fundamentals
-- The Standard Model of particle physics
-- General Relativity and spacetime geometry
-- Mathematical foundations (Lie groups, fiber bundles, differential geometry)
-- Particle types and their mathematical representations
+<div class="topic-grid">
+  <div class="topic-item">
+    <h3>Quantum Field Theory</h3>
+    <p>From classical fields to second quantization, path integrals, and Feynman diagrams.</p>
+  </div>
+  <div class="topic-item">
+    <h3>Standard Model</h3>
+    <p>Gauge groups, particle representations, electroweak unification, and symmetry breaking.</p>
+  </div>
+  <div class="topic-item">
+    <h3>General Relativity</h3>
+    <p>Differential geometry, spacetime curvature, and the Einstein field equations.</p>
+  </div>
+  <div class="topic-item">
+    <h3>Mathematics</h3>
+    <p>Lie groups, fiber bundles, representation theory, and differential geometry.</p>
+  </div>
+</div>
