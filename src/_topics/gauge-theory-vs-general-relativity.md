@@ -42,7 +42,34 @@ This is one of the deepest insights of 20th century physics: **forces are geomet
 
 ## The Critical Difference: What Is Curved?
 
-Despite the mathematical similarity, there's a profound physical difference:
+Despite the mathematical similarity, there's a profound physical difference.
+
+### Electromagnetism (and all gauge theories)
+
+- Spacetime remains **flat** (Minkowski metric <span class="math-inline">\eta_{\mu\nu}</span>)
+- The curvature <span class="math-inline">F_{\mu\nu}</span> lives in the **internal space** — the <span class="math-inline">U(1)</span> fiber over each spacetime point
+- The electromagnetic field <span class="math-inline">A_\mu</span> is a **connection** on this fiber bundle
+- The field strength <span class="math-inline">F_{\mu\nu} = \partial_\mu A_\nu - \partial_\nu A_\mu</span> is the **curvature of this connection**
+
+### General Relativity
+
+- Spacetime itself is **curved** (dynamical metric <span class="math-inline">g_{\mu\nu}</span>)
+- The Riemann tensor <span class="math-inline">R^\rho_{\sigma\mu\nu}</span> is the curvature **of spacetime itself**
+- There is no separate internal space — the stage itself is bent
+
+### The Key Distinction
+
+| | Gauge Theory | General Relativity |
+|--|-------------|-----|
+| What is curved? | Internal space (fiber) | Spacetime itself |
+| Metric | Fixed background | Dynamical field |
+| Force arises from | Fiber curvature <span class="math-inline">F_{\mu\nu}</span> | Spacetime curvature <span class="math-inline">R^\rho_{\sigma\mu\nu}</span> |
+
+This is why gravity is so much harder to quantize: in gauge theories, we quantize fields **on** a fixed stage. In gravity, we would need to quantize the stage itself.
+
+---
+
+### More Detail
 
 **Gauge theories curve an "internal" space:**
 - At each point of spacetime, there's a fiber (like a little circle for <span class="math-inline">U(1)</span>)
