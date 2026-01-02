@@ -5,7 +5,7 @@ title: About
 
 ## About This Project
 
-This site is a wiki-style resource for understanding modern theoretical physics with a strong emphasis on mathematical precision.
+This site is a wiki-style resource for understanding modern theoretical physics with a strong emphasis on mathematical concepts.
 
 ### Goals
 
