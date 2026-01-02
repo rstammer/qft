@@ -165,3 +165,15 @@ Both structures use the same mathematical language: manifolds, connections, curv
 | Symmetry | Gauge invariance | Diffeomorphism invariance |
 
 The deep message: **geometry unifies our understanding of forces**. Whether this hints at a true unified theory remains one of the greatest open questions in physics.
+
+---
+
+## References
+
+- C. N. Yang and R. L. Mills, "Conservation of Isotopic Spin and Isotopic Gauge Invariance," *Physical Review* 96, 191–195 (1954) — [Original paper](https://doi.org/10.1103/PhysRev.96.191)
+- M. Nakahara, *Geometry, Topology and Physics*, 2nd ed. (CRC Press, 2003)
+- T. Frankel, *The Geometry of Physics*, 3rd ed. (Cambridge University Press, 2011)
+- S. Weinberg, *Gravitation and Cosmology* (Wiley, 1972), Chapters 6–7
+- C. W. Misner, K. S. Thorne, and J. A. Wheeler, *Gravitation* (W. H. Freeman, 1973)
+- J. Baez and J. P. Muniain, *Gauge Fields, Knots and Gravity* (World Scientific, 1994)
+- R. Penrose, *The Road to Reality* (Vintage, 2004), Chapters 15, 19

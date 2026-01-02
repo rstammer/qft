@@ -279,3 +279,13 @@ See also: [The Schrödinger Equation](/topics/schrodinger-equation/)
 | Key insight | Atomic structure is determined by quantum mechanics |
 
 Bohr's model was **wrong in detail but right in spirit**. Electrons don't orbit like planets, but energy quantization is real. The model bridged classical and quantum physics and pointed the way to the full quantum theory.
+
+---
+
+## References
+
+- N. Bohr, "On the Constitution of Atoms and Molecules," *Philosophical Magazine* 26, 1–24 (1913) — [Original paper](https://doi.org/10.1080/14786441308634955)
+- D. J. Griffiths, *Introduction to Quantum Mechanics*, 3rd ed. (Cambridge University Press, 2018), Chapter 4
+- B. H. Bransden and C. J. Joachain, *Physics of Atoms and Molecules*, 2nd ed. (Pearson, 2003)
+- R. Eisberg and R. Resnick, *Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles*, 2nd ed. (Wiley, 1985), Chapters 4–5
+- [NIST Atomic Spectra Database](https://www.nist.gov/pml/atomic-spectra-database) — Experimental spectral line data

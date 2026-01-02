@@ -81,3 +81,14 @@ The classical limit corresponds to **Poisson brackets**:
 This defines a **symplectic structure** on phase space. Quantization replaces:
 
 <span class="math-display">\{A, B\} \to \frac{1}{i\hbar}[\hat{A}, \hat{B}]</span>
+
+---
+
+## References
+
+- W. Heisenberg, "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik," *Zeitschrift für Physik* 43, 172–198 (1927) — [Original uncertainty paper](https://doi.org/10.1007/BF01397280)
+- J. J. Sakurai and J. Napolitano, *Modern Quantum Mechanics*, 2nd ed. (Addison-Wesley, 2011), Chapter 1
+- B. C. Hall, *Lie Groups, Lie Algebras, and Representations*, 2nd ed. (Springer, 2015), Chapter 3
+- V. S. Varadarajan, *Geometry of Quantum Theory*, 2nd ed. (Springer, 2007)
+- A. Kirillov, *An Introduction to Lie Groups and Lie Algebras* (Cambridge University Press, 2008)
+- [nLab: Heisenberg Lie algebra](https://ncatlab.org/nlab/show/Heisenberg+Lie+algebra)

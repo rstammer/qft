@@ -61,3 +61,13 @@ where <span class="math-inline">F_{\mu\nu} = \partial_\mu A_\nu - \partial_\nu A
 2. **Quantization**: Path integrals use <span class="math-inline">e^{iS/\hbar}</span> as the quantum amplitude
 3. **Gauge theories**: Lagrangians naturally encode gauge symmetry
 4. **Renormalization**: The Lagrangian determines which terms are allowed
+
+---
+
+## References
+
+- L. D. Landau and E. M. Lifshitz, *Mechanics*, 3rd ed. (Pergamon, 1976), Chapters 1–2
+- H. Goldstein, C. Poole, and J. Safko, *Classical Mechanics*, 3rd ed. (Addison-Wesley, 2002)
+- V. I. Arnold, *Mathematical Methods of Classical Mechanics*, 2nd ed. (Springer, 1989)
+- M. E. Peskin and D. V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995), Chapter 2
+- D. Tong, *Lectures on Classical Dynamics* — [Free online notes](http://www.damtp.cam.ac.uk/user/tong/dynamics.html)

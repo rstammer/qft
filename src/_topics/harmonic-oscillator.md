@@ -359,3 +359,13 @@ This is why the harmonic oscillator is the foundation of quantum field theory!
 | Ladder operators | <span class="math-inline">[\hat{a}, \hat{a}^\dagger] = 1</span> |
 | Ground state | <span class="math-inline">\psi_0 \propto e^{-m\omega x^2/2\hbar}</span> |
 | Number operator | <span class="math-inline">\hat{n} = \hat{a}^\dagger\hat{a}</span> |
+
+---
+
+## References
+
+- D. J. Griffiths, *Introduction to Quantum Mechanics*, 3rd ed. (Cambridge University Press, 2018), Chapter 2
+- J. J. Sakurai and J. Napolitano, *Modern Quantum Mechanics*, 2nd ed. (Addison-Wesley, 2011), Chapter 2
+- L. D. Landau and E. M. Lifshitz, *Quantum Mechanics: Non-Relativistic Theory*, 3rd ed. (Pergamon, 1977), §23
+- R. Shankar, *Principles of Quantum Mechanics*, 2nd ed. (Springer, 1994), Chapter 7
+- C. Cohen-Tannoudji, B. Diu, and F. Laloë, *Quantum Mechanics*, Vol. 1 (Wiley, 1977), Chapter V

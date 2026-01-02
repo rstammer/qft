@@ -248,3 +248,15 @@ The 1979 Nobel Prize was awarded to Glashow, Salam, and Weinberg for electroweak
 | W±, Z | Massive weak bosons |
 
 **The photon is not fundamental** — it emerges from the mixing of more fundamental gauge bosons after the Higgs field breaks the electroweak symmetry.
+
+---
+
+## References
+
+- S. Weinberg, "A Model of Leptons," *Physical Review Letters* 19, 1264–1266 (1967) — [Original paper](https://doi.org/10.1103/PhysRevLett.19.1264)
+- A. Salam, "Weak and Electromagnetic Interactions," in *Elementary Particle Theory*, ed. N. Svartholm (Almqvist & Wiksell, 1968)
+- S. L. Glashow, "Partial-symmetries of weak interactions," *Nuclear Physics* 22, 579–588 (1961)
+- M. E. Peskin and D. V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995), Chapter 20
+- D. J. Griffiths, *Introduction to Elementary Particles*, 2nd ed. (Wiley-VCH, 2008), Chapter 10
+- T. P. Cheng and L. F. Li, *Gauge Theory of Elementary Particle Physics* (Oxford University Press, 1984)
+- [Particle Data Group](https://pdg.lbl.gov/) — Current experimental values for W, Z masses and electroweak parameters

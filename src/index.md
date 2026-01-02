@@ -19,23 +19,3 @@ layout: default
 <% end %>
 </div>
 
-## Areas
-
-<div class="topic-grid">
-  <div class="topic-item">
-    <h3>Quantum Field Theory</h3>
-    <p>From classical fields to second quantization, path integrals, and Feynman diagrams.</p>
-  </div>
-  <div class="topic-item">
-    <h3>Standard Model</h3>
-    <p>Gauge groups, particle representations, electroweak unification, and symmetry breaking.</p>
-  </div>
-  <div class="topic-item">
-    <h3>General Relativity</h3>
-    <p>Differential geometry, spacetime curvature, and the Einstein field equations.</p>
-  </div>
-  <div class="topic-item">
-    <h3>Mathematics</h3>
-    <p>Lie groups, fiber bundles, representation theory, and differential geometry.</p>
-  </div>
-</div>

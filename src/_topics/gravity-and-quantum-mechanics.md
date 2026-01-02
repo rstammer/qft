@@ -149,3 +149,15 @@ Maybe spacetime geometry emerges from something more fundamental:
 | Full quantum gravity | Spacetime itself quantum | Open problem |
 
 The statement "QFT uses Riemannian geometry when gravity is considered" refers to the **semiclassical regime**—quantum fields on a classical curved background. This is well-defined and useful. The **full problem** of making gravity quantum is unsolved.
+
+---
+
+## References
+
+- S. W. Hawking, "Particle Creation by Black Holes," *Communications in Mathematical Physics* 43, 199–220 (1975) — [Original Hawking radiation paper](https://doi.org/10.1007/BF02345020)
+- R. M. Wald, *Quantum Field Theory in Curved Spacetime and Black Hole Thermodynamics* (University of Chicago Press, 1994)
+- C. Kiefer, *Quantum Gravity*, 3rd ed. (Oxford University Press, 2012)
+- C. Rovelli, *Quantum Gravity* (Cambridge University Press, 2004)
+- J. Polchinski, *String Theory*, Vols. 1–2 (Cambridge University Press, 1998)
+- S. Carlip, "Quantum Gravity: a Progress Report," *Reports on Progress in Physics* 64, 885 (2001) — [arXiv:gr-qc/0108040](https://arxiv.org/abs/gr-qc/0108040)
+- [Living Reviews in Relativity](https://www.springer.com/journal/41114) — Open access reviews on gravity research

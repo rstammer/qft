@@ -94,3 +94,14 @@ Particles not in the Standard Model but theorized:
 - **Graviton**: Spin-2 carrier of gravity
 - **Dark matter candidates**: WIMPs, axions
 - **Supersymmetric partners**: Squarks, sleptons, gauginos
+
+---
+
+## References
+
+- D. J. Griffiths, *Introduction to Elementary Particles*, 2nd ed. (Wiley-VCH, 2008)
+- M. Thomson, *Modern Particle Physics* (Cambridge University Press, 2013)
+- [Particle Data Group](https://pdg.lbl.gov/) — Comprehensive particle physics data
+- [CERN: The Standard Model](https://home.cern/science/physics/standard-model) — Introduction to particle physics
+- M. E. Peskin and D. V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995), Chapter 1
+- A. Zee, *Quantum Field Theory in a Nutshell*, 2nd ed. (Princeton University Press, 2010)

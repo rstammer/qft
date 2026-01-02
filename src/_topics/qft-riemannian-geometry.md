@@ -347,3 +347,15 @@ This is formalized by the **Osterwalder-Schrader axioms**, which give conditions
 | Covariant derivative | Connection-induced derivative |
 | Yang-Mills action | Integral of curvature squared |
 | Path integral | Euclidean formulation via Wick rotation |
+
+---
+
+## References
+
+- M. E. Peskin and D. V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995)
+- M. Nakahara, *Geometry, Topology and Physics*, 2nd ed. (CRC Press, 2003)
+- T. Frankel, *The Geometry of Physics*, 3rd ed. (Cambridge University Press, 2011)
+- J. Baez and J. P. Muniain, *Gauge Fields, Knots and Gravity* (World Scientific, 1994)
+- S. Weinberg, *The Quantum Theory of Fields*, Vols. 1–2 (Cambridge University Press, 1995–1996)
+- R. W. R. Darling, *Differential Forms and Connections* (Cambridge University Press, 1994)
+- [nLab: Gauge theory](https://ncatlab.org/nlab/show/gauge+theory) — Mathematical perspective

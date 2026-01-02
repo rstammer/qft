@@ -98,3 +98,13 @@ Mathematically, gauge theories are described by:
 - **Associated vector bundle** <span class="math-inline">E = P \times_\rho V</span>
 - Matter fields are **sections** of <span class="math-inline">E</span>
 - Gauge fields are **connections** on <span class="math-inline">P</span>
+
+---
+
+## References
+
+- E. P. Wigner, "On Unitary Representations of the Inhomogeneous Lorentz Group," *Annals of Mathematics* 40, 149–204 (1939) — [Original classification paper](https://doi.org/10.2307/1968551)
+- S. Weinberg, *The Quantum Theory of Fields*, Vol. 1 (Cambridge University Press, 1995), Chapters 2 and 5
+- H. Georgi, *Lie Algebras in Particle Physics*, 2nd ed. (Westview Press, 1999)
+- W. Fulton and J. Harris, *Representation Theory: A First Course* (Springer, 1991)
+- B. C. Hall, *Lie Groups, Lie Algebras, and Representations*, 2nd ed. (Springer, 2015)

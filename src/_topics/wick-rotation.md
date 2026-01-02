@@ -201,3 +201,14 @@ These require direct Minkowski calculations or Schwinger-Keldysh formalism.
 | Path integral | <span class="math-inline">e^{iS}</span> (oscillatory) | <span class="math-inline">e^{-S_E}</span> (convergent) |
 | Symmetry | Lorentz <span class="math-inline">SO(1,3)</span> | Rotation <span class="math-inline">SO(4)</span> |
 | Use | Physical amplitudes | Computation, lattice |
+
+---
+
+## References
+
+- G. C. Wick, "Properties of Bethe-Salpeter Wave Functions," *Physical Review* 96, 1124 (1954) — [Original paper](https://doi.org/10.1103/PhysRev.96.1124)
+- K. Osterwalder and R. Schrader, "Axioms for Euclidean Green's Functions," *Communications in Mathematical Physics* 31, 83–112 (1973)
+- J. Glimm and A. Jaffe, *Quantum Physics: A Functional Integral Point of View*, 2nd ed. (Springer, 1987)
+- M. E. Peskin and D. V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995), Section 9.3
+- J. Zinn-Justin, *Quantum Field Theory and Critical Phenomena*, 4th ed. (Oxford University Press, 2002)
+- M. Creutz, *Quarks, Gluons and Lattices* (Cambridge University Press, 1983) — Lattice QFT introduction

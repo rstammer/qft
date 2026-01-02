@@ -89,3 +89,13 @@ Operators at spacelike-separated points commute (or anti-commute for fermions).
 <span class="math-display">\hat{H} = \int \frac{d^3p}{(2\pi)^3} E_p \left(\hat{a}_p^\dagger\hat{a}_p + \frac{1}{2}\right)</span>
 
 QFT is like an infinite collection of harmonic oscillators, one for each momentum mode!
+
+---
+
+## References
+
+- M. E. Peskin and D. V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995), Chapters 1–2
+- S. Weinberg, *The Quantum Theory of Fields*, Vol. 1 (Cambridge University Press, 1995)
+- A. Zee, *Quantum Field Theory in a Nutshell*, 2nd ed. (Princeton University Press, 2010)
+- L. H. Ryder, *Quantum Field Theory*, 2nd ed. (Cambridge University Press, 1996)
+- D. Tong, *Lectures on Quantum Field Theory* — [Free online notes](http://www.damtp.cam.ac.uk/user/tong/qft.html)

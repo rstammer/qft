@@ -213,3 +213,14 @@ follows from the requirement that the bundle be well-defined.
 | Gauge transformation | Bundle automorphism |
 | Magnetic charge | First Chern class |
 | Instanton number | Second Chern class |
+
+---
+
+## References
+
+- M. Nakahara, *Geometry, Topology and Physics*, 2nd ed. (CRC Press, 2003), Chapters 9–11
+- C. Nash and S. Sen, *Topology and Geometry for Physicists* (Academic Press, 1983)
+- M. F. Atiyah, *Geometry of Yang-Mills Fields* (Scuola Normale Superiore, 1979)
+- R. W. R. Darling, *Differential Forms and Connections* (Cambridge University Press, 1994)
+- J. Baez and J. P. Muniain, *Gauge Fields, Knots and Gravity* (World Scientific, 1994)
+- [nLab: Principal bundle](https://ncatlab.org/nlab/show/principal+bundle) — Category-theoretic perspective

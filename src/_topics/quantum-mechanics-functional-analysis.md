@@ -353,3 +353,14 @@ The infinite-dimensional nature of quantum mechanics is **essential**, not a tec
 4. **No finite-dimensional CCR**: <span class="math-inline">[A, B] = iI</span> has no finite-dimensional representation (take trace!)
 
 Functional analysis provides the rigorous foundation for all of this. Without it, quantum mechanics would be a collection of formal manipulations rather than a coherent mathematical theory.
+
+---
+
+## References
+
+- J. von Neumann, *Mathematical Foundations of Quantum Mechanics* (Princeton University Press, 1955) — The classic text on rigorous QM
+- M. Reed and B. Simon, *Methods of Modern Mathematical Physics*, Vols. 1–4 (Academic Press, 1972–1979)
+- B. C. Hall, *Quantum Theory for Mathematicians* (Springer, 2013)
+- G. Teschl, *Mathematical Methods in Quantum Mechanics*, 2nd ed. (AMS, 2014) — [Free online](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/)
+- F. Strocchi, *An Introduction to the Mathematical Structure of Quantum Mechanics*, 2nd ed. (World Scientific, 2008)
+- W. Rudin, *Functional Analysis*, 2nd ed. (McGraw-Hill, 1991)

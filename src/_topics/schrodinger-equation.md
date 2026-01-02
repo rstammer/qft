@@ -67,3 +67,13 @@ The Schrodinger equation is:
 - **Single-particle**: Multi-particle versions exist but become unwieldy
 
 These limitations motivate **Quantum Field Theory**, where particles are excitations of underlying fields.
+
+---
+
+## References
+
+- E. Schrödinger, "Quantisierung als Eigenwertproblem," *Annalen der Physik* 79, 361–376 (1926) — [Original paper](https://doi.org/10.1002/andp.19263840404)
+- D. J. Griffiths, *Introduction to Quantum Mechanics*, 3rd ed. (Cambridge University Press, 2018), Chapters 1–2
+- J. J. Sakurai and J. Napolitano, *Modern Quantum Mechanics*, 2nd ed. (Addison-Wesley, 2011)
+- R. Shankar, *Principles of Quantum Mechanics*, 2nd ed. (Springer, 1994)
+- C. Cohen-Tannoudji, B. Diu, and F. Laloë, *Quantum Mechanics*, Vols. 1–2 (Wiley, 1977)
