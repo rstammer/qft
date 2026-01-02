@@ -105,7 +105,7 @@ For electromagnetism (<span class="math-inline">U(1)</span>, abelian):
 <span class="math-display">F_{\mu\nu} = \partial_\mu A_\nu - \partial_\nu A_\mu</span>
 
 This gives the electric and magnetic fields:
-<span class="math-display">F_{0i} = E_i, \quad F_{ij} = \epsilon_{ijk}B_k</span>
+<span class="math-display">F_{0i} = -E_i, \quad F_{ij} = \epsilon_{ijk}B_k</span>
 
 For non-abelian theories (like QCD), the commutator <span class="math-inline">[A_\mu, A_\nu]</span> is non-zero, leading to gluon self-interactions.
 
